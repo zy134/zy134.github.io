@@ -1,0 +1,22 @@
+h1 {
+    color: cadetblue;
+
+    font-family: cursive,fantasy,sans-serif;
+    font-size: 15em;
+    font-weight: bolder;
+    font-style: normal;
+
+    text-align: center;
+}
+
+footer{
+    color: cyan;
+    border-style: dotted;
+    border-color: white;
+
+    text-align: center;
+    font-family:  cursive,fantasy,sans-serif;
+    font-size: 5em;
+
+
+}
